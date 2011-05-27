@@ -1,6 +1,6 @@
 %define name glpi-plugin-archires
-%define version 1.7.3
-%define release %mkrel 2
+%define version 1.8.0
+%define release %mkrel 1
 
 Summary: Network reporting plugin
 Name: %{name}
