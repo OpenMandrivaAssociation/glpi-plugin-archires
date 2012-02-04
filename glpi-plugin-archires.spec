@@ -1,5 +1,5 @@
 %define name glpi-plugin-archires
-%define version 1.8.0
+%define version 1.9.1
 %define release %mkrel 1
 
 Summary: Network reporting plugin
@@ -9,7 +9,7 @@ Release: %{release}
 License: GPL
 Group: Monitoring
 Url: https://forge.indepnet.net/projects/archires
-Source0: https://forge.indepnet.net/attachments/download/478/glpi-archires-%{version}.tar.gz
+Source0: https://forge.indepnet.net/attachments/download/972/glpi-archires-%{version}.tar.gz
 Source1: pack.mg_dvl.tar.bz2
 Requires: graphviz
 BuildArch: noarch
