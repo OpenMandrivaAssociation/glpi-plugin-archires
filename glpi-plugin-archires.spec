@@ -36,3 +36,27 @@ cp -ap * %{buildroot}%{_datadir}/glpi/plugins/archires
 
 %files
 %{_datadir}/glpi/plugins/archires
+
+
+%changelog
+* Sat Feb 04 2012 Oden Eriksson <oeriksson@mandriva.com> 1.9.1-2mdv2012.0
++ Revision: 771125
+- various fixes
+
+* Sat Feb 04 2012 Oden Eriksson <oeriksson@mandriva.com> 1.9.1-1
++ Revision: 771078
+- 1.9.1
+
+* Fri May 27 2011 Guillaume Rousse <guillomovitch@mandriva.org> 1.8.0-1
++ Revision: 680283
+- new version
+
+* Thu Sep 16 2010 Guillaume Rousse <guillomovitch@mandriva.org> 1.7.3-2mdv2011.0
++ Revision: 578863
+- add missing icons
+- add graphviz dependency
+
+* Mon Aug 16 2010 Guillaume Rousse <guillomovitch@mandriva.org> 1.7.3-1mdv2011.0
++ Revision: 570527
+- import glpi-plugin-archires
+
